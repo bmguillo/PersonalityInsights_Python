@@ -12,4 +12,7 @@
 - iam_apikey
 - url
 5. Choose the type of file you want to analyze (txt, JSON or CSV)
+- You can pass the service a maximum of 20 MB of content to be analyzed via the body of the request, Fewer than 100 words generate an error
+- IBM recommends that you provide at least 1200 words, but providing at least 600 words produces acceptable results:
+3000 words are sufficient to achieve the service's maximum precision
 6. In the demo I analyze a txt file for personality traits and save results to a JSON file
