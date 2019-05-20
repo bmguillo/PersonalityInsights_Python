@@ -4,4 +4,4 @@
   
 ## Getting Started
 
-1. Create a IBM Cloud Account
+1. Create a [IBM Cloud Account](http://cloud.ibm.com/)
