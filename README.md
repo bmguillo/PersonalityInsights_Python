@@ -4,7 +4,7 @@
   
 ## Getting Started
 
-1. Install [python SDK](https://github.com/watson-developer-cloud/python-sdk). Run pip install --upgrade ibm-watson & the latest is Python 3.7
+1. Install [python SDK](https://github.com/watson-developer-cloud/python-sdk). I ran pip install --upgrade ibm-watson in bash & the latest Python I installed is 3.7
 2. Create a [IBM Cloud Account](http://cloud.ibm.com/)
 3. Create an [instance of Personality Insights](https://cloud.ibm.com/catalog/services/personality-insights) within your IBM Cloud account, choose the Lite plan.
 4. Within the PersonalityInsightsProf.py file found in the data folder in this github repo, enter the credentials from Manage-->Credentials of the Personality Insights service you created to authenticate to the service.
