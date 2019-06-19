@@ -22,3 +22,12 @@ Consumer Preferences.
   - IBM recommends that you provide at least 1200 words, but providing at least 600 words produces acceptable results:
 3000 words are sufficient to achieve the service's maximum precision
 6. In the demo I analyze a txt file for personality traits and save results to a JSON file
+
+
+Helpful Links:
+[Personality Insights API documentation:](https://cloud.ibm.com/apidocs/personality-insights?code=python)
+[Atom Text Editor for running Python code:](https://atom.io/)
+How 
+[Information on the Personality characteristics in the profile:](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-models#models)
+[Understanding percentile and raw scores:](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-numeric)
+[The science behind the service:](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-science)
