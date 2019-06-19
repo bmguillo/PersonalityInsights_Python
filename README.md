@@ -25,8 +25,8 @@ Consumer Preferences.
 
 
 Helpful Links:
-- [Personality Insights API documentation:](https://cloud.ibm.com/apidocs/personality-insights?code=python)
-- [Atom Text Editor for running Python code:](https://atom.io/)
-- [Information on the Personality characteristics in the profile:](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-models#models)
-- [Understanding percentile and raw scores:](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-numeric)
-- [The science behind the service:](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-science)
+- [Personality Insights API documentation](https://cloud.ibm.com/apidocs/personality-insights?code=python)
+- [Atom Text Editor for running Python code](https://atom.io/)
+- [Information on the Personality characteristics in the profile](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-models#models)
+- [Understanding percentile and raw scores](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-numeric)
+- [The science behind the service](https://cloud.ibm.com/docs/services/personality-insights?topic=personality-insights-science)
